@@ -58,7 +58,10 @@
 
 .ab-images {
     /* Div */
-
+    background-image: url('images/circle.png');
+    background-repeat: no-repeat;
+    background-size: 530px;
+    background-position: right 17%  bottom 3%;
 }
 
 .ab-image {
