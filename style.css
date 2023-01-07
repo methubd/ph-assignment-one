@@ -67,6 +67,7 @@
     width: 569px;
     padding-left: 450px;
     padding-right: 80px;
+    background-blend-mode: multiply;
 }
 
 .ab-texts {
