@@ -6,10 +6,9 @@
 .web-heading {
     text-align: right;
     background-image: url('./images/banner/banner1.png');
-    background-repeat: none;
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
     padding-bottom: 300px;
-
 }
 
 .wh-title {
